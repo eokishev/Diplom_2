@@ -17,5 +17,5 @@ public class Constants {
     public static final String WRONG_USER_PASSWORD = "B1xBUuF5";
     public static final String USER_NAME = "Evgeny";
     public static final String CHANGE_USER_NAME = "Evgeny_change";
-    public static final String[] INGREDIENTS = {"61c0c5a71d1f82001bdaaa6d", "61c0c5a71d1f82001bdaaa73", "61c0c5a71d1f82001bdaaa71", "61c0c5a71d1f82001bdaaa79"};
+    public static final String[] INGREDIENTS = {"61c0c5a71d1f82001bdaaa6d", "61c0c5a71d1f82001bdaaa72", "61c0c5a71d1f82001bdaaa70", "61c0c5a71d1f82001bdaaa79"};
 }
