@@ -1,12 +1,10 @@
 package org.example;
 
 import io.qameta.allure.junit4.DisplayName;
-import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.example.user.CreateUser;
 import org.example.user.Login;
 import org.junit.After;
-import org.junit.Before;
 import org.junit.Test;
 
 import static org.apache.http.HttpStatus.SC_ACCEPTED;
